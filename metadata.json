@@ -1,0 +1,5 @@
+{
+  "name": "Minimalist Brew Store Demo",
+  "description": "A premium e-commerce showcase featuring a minimalist coffee bean store with Stripe-inspired checkout, Framer Motion animations, and a Gemini-powered AI Sommelier.",
+  "requestFramePermissions": []
+}
